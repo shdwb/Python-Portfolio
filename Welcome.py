@@ -1,0 +1,7 @@
+print ("Welcome Shoppers.")
+print("Below is the discount on the product based on the amount you buy.")
+print("Quantitiy of 100 or more items: 50% discount")
+print("Quantitiy of 99-50 items: 40% discount")
+print("Quantitiy of 49-20 items: 30% discount")
+print("Quantitiy of 19-10 items: 20% discount")
+print("No discount if it is under 9 itmes")

@@ -1,1 +1,1 @@
-
+This code takes user input for sales and calculates the dsicount that will be applied to the sales and automatically applies it, and informs the user the amount of the discount as well as the total price of the sale
